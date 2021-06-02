@@ -1,0 +1,15 @@
+.Images__wrapper {
+  border-color: coral;
+  border-style: solid;
+  box-sizing: border-box;
+  height: 98vh;
+  width: 30vw;
+}
+
+.Videos__wrapper {
+  border-color: royalblue;
+  border-style: solid;
+  box-sizing: border-box;
+  height: 98vh;
+  width: 70vw;
+}
